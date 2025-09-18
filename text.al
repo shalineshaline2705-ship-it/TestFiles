@@ -68,10 +68,7 @@ table 90101 Employe
         Message('Data Deleted');
     end;
 
-    trigger OnRename()
-    begin
-        Message('Data renamed');
-    end;
+
 
 
 }
